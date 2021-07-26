@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511327211988",
+    "project_id": "fccu-app",
+    "storage_bucket": "fccu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511327211988:android:93b359cfbf7f8049548641",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511327211988-u6nciohkflb8nu5j6qn562mjpkrfskeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIenC8O57YQxvE1MAVu9FlTsfe0wi4CSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511327211988-u6nciohkflb8nu5j6qn562mjpkrfskeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
